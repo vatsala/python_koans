@@ -13,3 +13,4 @@ Running a whole test case:
   Running a single test:
 
   $ python contemplate_koans.py about_strings.AboutStrings.test_triple_quoted_strings_need_less_escaping
+yes
